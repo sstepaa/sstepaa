@@ -5,7 +5,7 @@
       code : [Javascript , HTML , CSS] ,
       
       fronEnd : {
-            js : ["Jquery"] ,   
-						css : [Bootstrap]
-		}
+        js : ["Jquery"] ,   
+	css : [Bootstrap]
+	}
   }
